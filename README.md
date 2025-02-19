@@ -5,7 +5,7 @@ Shows Task's description inside their cards in the Board view.
 <img src="https://github.com/user-attachments/assets/5190cfc4-6f30-4dfb-b9b6-aa411f5181b7">
 </p>
 
-Adds class `description-inside-task` to it so you can adjust visualization trought app CSS configuration.
+Adds class `description-inside-task` to it so you can adjust visualization through app CSS configuration.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/90ec42ef-263f-4e8f-86ab-bb9ba2966c95">
